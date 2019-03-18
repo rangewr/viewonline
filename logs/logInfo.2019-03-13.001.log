@@ -1,0 +1,222 @@
+2018/12/09 20:28:08.168 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2018/12/09 20:29:38.684 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2018/12/09 20:49:47.839 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2018/12/09 20:51:08.528 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2018/12/09 21:01:48.299 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2018/12/09 23:43:11.894 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2018/12/09 23:44:43.112 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2018/12/09 23:54:13.971 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2018/12/09 23:56:53.069 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2018/12/09 23:58:12.788 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2018/12/10 00:00:37.069 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2018/12/10 00:04:05.300 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2018/12/10 00:07:25.989 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2018/12/10 00:10:50.813 [C] [asm_amd64.s:522]  the request url is  /proc/Login
+2018/12/10 00:10:51.076 [C] [asm_amd64.s:522]  Handler crashed with error <Ormer> cannot use non-ptr model struct `viewonline/models.UserInfo`
+2018/12/10 00:10:52.583 [C] [asm_amd64.s:522]  D:/Go/src/runtime/asm_amd64.s:522
+2018/12/10 00:10:54.465 [C] [asm_amd64.s:522]  D:/Go/src/runtime/panic.go:513
+2018/12/10 00:10:55.491 [C] [asm_amd64.s:522]  D:/testproject/Go/src/github.com/astaxie/beego/orm/orm.go:107
+2018/12/10 00:10:56.428 [C] [asm_amd64.s:522]  D:/testproject/Go/src/github.com/astaxie/beego/orm/orm.go:127
+2018/12/10 00:10:57.368 [C] [asm_amd64.s:522]  D:/Project/Go/src/viewonline/models/sys_userinfo.go:146
+2018/12/10 00:10:58.356 [C] [asm_amd64.s:522]  D:/Project/Go/src/viewonline/controllers/default.go:85
+2018/12/10 00:10:59.344 [C] [asm_amd64.s:522]  D:/testproject/Go/src/github.com/astaxie/beego/router.go:835
+2018/12/10 00:11:00.337 [C] [asm_amd64.s:522]  D:/Go/src/net/http/server.go:2741
+2018/12/10 00:11:01.311 [C] [asm_amd64.s:522]  D:/Go/src/net/http/server.go:1847
+2018/12/10 00:11:02.283 [C] [asm_amd64.s:522]  D:/Go/src/runtime/asm_amd64.s:1333
+2018/12/10 00:11:04.807 [server.go:2977]  [HTTP] http: multiple response.WriteHeader calls
+2018/12/10 00:12:07.675 [C] [asm_amd64.s:522]  the request url is  /proc/Login
+2018/12/10 00:12:07.675 [C] [asm_amd64.s:522]  Handler crashed with error <Ormer> cannot use non-ptr model struct `viewonline/models.UserInfo`
+2018/12/10 00:12:07.675 [C] [asm_amd64.s:522]  D:/Go/src/runtime/asm_amd64.s:522
+2018/12/10 00:12:07.675 [C] [asm_amd64.s:522]  D:/Go/src/runtime/panic.go:513
+2018/12/10 00:12:07.675 [C] [asm_amd64.s:522]  D:/testproject/Go/src/github.com/astaxie/beego/orm/orm.go:107
+2018/12/10 00:12:07.675 [C] [asm_amd64.s:522]  D:/testproject/Go/src/github.com/astaxie/beego/orm/orm.go:127
+2018/12/10 00:12:07.675 [C] [asm_amd64.s:522]  D:/Project/Go/src/viewonline/models/sys_userinfo.go:146
+2018/12/10 00:12:07.675 [C] [asm_amd64.s:522]  D:/Project/Go/src/viewonline/controllers/default.go:85
+2018/12/10 00:12:07.675 [C] [asm_amd64.s:522]  D:/testproject/Go/src/github.com/astaxie/beego/router.go:835
+2018/12/10 00:12:07.675 [C] [asm_amd64.s:522]  D:/Go/src/net/http/server.go:2741
+2018/12/10 00:12:07.675 [C] [asm_amd64.s:522]  D:/Go/src/net/http/server.go:1847
+2018/12/10 00:12:07.675 [C] [asm_amd64.s:522]  D:/Go/src/runtime/asm_amd64.s:1333
+2018/12/10 00:12:07.675 [server.go:2977]  [HTTP] http: multiple response.WriteHeader calls
+2018/12/10 00:13:32.368 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2018/12/10 00:16:18.158 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2018/12/10 00:19:39.214 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2018/12/10 00:22:39.515 [D] [sys_log.go:128]  Login 方法出现错误:<QuerySeter> no row found
+2018/12/10 00:22:39.617 [D] [sys_log.go:128]  用户[admin]登录失败
+2018/12/10 00:23:22.193 [D] [sys_log.go:128]  Login 方法出现错误:<QuerySeter> no row found
+2018/12/10 00:23:23.821 [D] [sys_log.go:128]  用户[admin]登录失败
+2018/12/10 00:29:58.611 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2018/12/10 00:30:15.158 [C] [asm_amd64.s:522]  the request url is  /proc/Login
+2018/12/10 00:30:15.158 [C] [asm_amd64.s:522]  Handler crashed with error <RawSeter.QueryRow> all args must be use ptr
+2018/12/10 00:30:15.158 [C] [asm_amd64.s:522]  D:/Go/src/runtime/asm_amd64.s:522
+2018/12/10 00:30:15.158 [C] [asm_amd64.s:522]  D:/Go/src/runtime/panic.go:513
+2018/12/10 00:30:15.158 [C] [asm_amd64.s:522]  D:/testproject/Go/src/github.com/astaxie/beego/orm/orm_raw.go:270
+2018/12/10 00:30:15.158 [C] [asm_amd64.s:522]  D:/Project/Go/src/viewonline/models/sys_userinfo.go:148
+2018/12/10 00:30:15.158 [C] [asm_amd64.s:522]  D:/Project/Go/src/viewonline/controllers/default.go:85
+2018/12/10 00:30:15.158 [C] [asm_amd64.s:522]  D:/testproject/Go/src/github.com/astaxie/beego/router.go:835
+2018/12/10 00:30:15.158 [C] [asm_amd64.s:522]  D:/Go/src/net/http/server.go:2741
+2018/12/10 00:30:15.158 [C] [asm_amd64.s:522]  D:/Go/src/net/http/server.go:1847
+2018/12/10 00:30:15.158 [C] [asm_amd64.s:522]  D:/Go/src/runtime/asm_amd64.s:1333
+2018/12/10 00:30:15.159 [server.go:2977]  [HTTP] http: multiple response.WriteHeader calls
+2018/12/10 00:31:43.351 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2018/12/10 00:31:50.936 [C] [asm_amd64.s:522]  the request url is  /proc/Login
+2018/12/10 00:31:50.936 [C] [asm_amd64.s:522]  Handler crashed with error <RawSeter.QueryRow> all args must be use ptr
+2018/12/10 00:31:50.936 [C] [asm_amd64.s:522]  D:/Go/src/runtime/asm_amd64.s:522
+2018/12/10 00:31:50.936 [C] [asm_amd64.s:522]  D:/Go/src/runtime/panic.go:513
+2018/12/10 00:31:50.936 [C] [asm_amd64.s:522]  D:/testproject/Go/src/github.com/astaxie/beego/orm/orm_raw.go:270
+2018/12/10 00:31:50.936 [C] [asm_amd64.s:522]  D:/Project/Go/src/viewonline/models/sys_userinfo.go:148
+2018/12/10 00:31:50.936 [C] [asm_amd64.s:522]  D:/Project/Go/src/viewonline/controllers/default.go:85
+2018/12/10 00:31:50.936 [C] [asm_amd64.s:522]  D:/testproject/Go/src/github.com/astaxie/beego/router.go:835
+2018/12/10 00:31:50.936 [C] [asm_amd64.s:522]  D:/Go/src/net/http/server.go:2741
+2018/12/10 00:31:50.936 [C] [asm_amd64.s:522]  D:/Go/src/net/http/server.go:1847
+2018/12/10 00:31:50.936 [C] [asm_amd64.s:522]  D:/Go/src/runtime/asm_amd64.s:1333
+2018/12/10 00:31:50.937 [server.go:2977]  [HTTP] http: multiple response.WriteHeader calls
+2018/12/10 00:32:20.859 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2018/12/10 00:32:42.600 [D] [sys_log.go:128]  用户[admin]登录成功!
+2018/12/10 00:34:03.561 [D] [sys_log.go:128]  Login 方法出现错误:<QuerySeter> no row found
+2018/12/10 00:34:03.660 [D] [sys_log.go:128]  用户[qiutian]登录失败
+2018/12/10 00:34:38.258 [D] [sys_log.go:128]  用户[qiutian]登录成功!
+2018/12/10 21:57:50.926 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2018/12/10 21:58:26.478 [D] [sys_log.go:128]  用户[admin]登录成功!
+2018/12/13 00:36:35.541 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2018/12/15 19:11:49.541 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2018/12/15 19:24:59.471 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2018/12/15 19:25:53.131 [D] [sys_log.go:128]  用户[wangran]登录成功!
+2018/12/25 19:03:51.270 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2018/12/25 19:05:29.206 [D] [sys_log.go:128]  用户[admin]登录成功!
+2018/12/25 19:37:10.945 [D] [sys_log.go:128]  GetMeetingJoinInfoByWhere Error:invalid connection
+2018/12/25 19:37:11.013 [D] [sys_log.go:128]  PostLiveData 获取Chart信息错误:invalid connection
+2018/12/25 19:40:36.383 [D] [sys_log.go:128]  用户[15940512261]登录成功!
+2018/12/25 19:41:22.209 [D] [sys_log.go:128]  用户[admin]登录成功!
+2018/12/25 19:46:09.094 [D] [sys_log.go:128]  GetMeetingList Controller:参数传递错误
+2018/12/25 19:46:46.142 [D] [sys_log.go:128]  GetCommunityInfoByWhere Error:<QuerySeter> no row found
+2018/12/25 19:47:36.123 [D] [sys_log.go:128]  UpdateMeetingInfo 错误:Error 1292: Incorrect datetime value: '' for column 'updatetime' at row 1
+2018/12/25 19:47:36.191 [D] [sys_log.go:128]  UpdateMeetingInfo Controller:更新会议信息失败
+2018/12/25 19:47:55.936 [D] [sys_log.go:128]  UpdateMeetingInfo 错误:Error 1292: Incorrect datetime value: '' for column 'updatetime' at row 1
+2018/12/25 19:47:56.006 [D] [sys_log.go:128]  UpdateMeetingInfo Controller:更新会议信息失败
+2018/12/25 19:48:17.000 [D] [sys_log.go:128]  UpdateMeetingInfo 错误:Error 1292: Incorrect datetime value: '' for column 'updatetime' at row 1
+2018/12/25 19:48:17.068 [D] [sys_log.go:128]  UpdateMeetingInfo Controller:更新会议信息失败
+2018/12/25 19:50:17.953 [D] [sys_log.go:128]  UpdateMeetingInfo Controller:参数传递错误
+2018/12/25 19:50:31.759 [D] [sys_log.go:128]  UpdateMeetingInfo 错误:Error 1292: Incorrect datetime value: '' for column 'updatetime' at row 1
+2018/12/25 19:50:31.826 [D] [sys_log.go:128]  UpdateMeetingInfo Controller:更新会议信息失败
+2018/12/25 19:50:36.830 [D] [sys_log.go:128]  UpdateMeetingInfo 错误:Error 1292: Incorrect datetime value: '' for column 'updatetime' at row 1
+2018/12/25 19:50:36.898 [D] [sys_log.go:128]  UpdateMeetingInfo Controller:更新会议信息失败
+2018/12/25 19:50:41.684 [D] [sys_log.go:128]  UpdateMeetingInfo 错误:Error 1292: Incorrect datetime value: '' for column 'updatetime' at row 1
+2018/12/25 19:50:41.757 [D] [sys_log.go:128]  UpdateMeetingInfo Controller:更新会议信息失败
+2018/12/25 19:50:47.486 [D] [sys_log.go:128]  UpdateMeetingInfo 错误:Error 1292: Incorrect datetime value: '' for column 'updatetime' at row 1
+2018/12/25 19:50:47.553 [D] [sys_log.go:128]  UpdateMeetingInfo Controller:更新会议信息失败
+2018/12/25 19:54:22.751 [D] [sys_log.go:128]  UpdateMeetingInfo Controller:参数传递错误
+2018/12/25 19:55:41.061 [D] [sys_log.go:128]  UpdateMeetingInfo Controller:参数传递错误
+2018/12/25 19:56:59.652 [D] [sys_log.go:128]  UpdateMeetingInfo Controller:参数传递错误
+2018/12/25 19:59:11.191 [D] [sys_log.go:128]  UpdateMeetingInfo Controller:参数传递错误
+2018/12/25 19:59:48.287 [D] [sys_log.go:128]  UpdateMeetingInfo 错误:Error 1292: Incorrect datetime value: '' for column 'updatetime' at row 1
+2018/12/25 19:59:48.355 [D] [sys_log.go:128]  UpdateMeetingInfo Controller:更新会议信息失败
+2018/12/25 20:00:02.167 [D] [sys_log.go:128]  UpdateMeetingInfo 错误:Error 1292: Incorrect datetime value: '' for column 'updatetime' at row 1
+2018/12/25 20:00:02.235 [D] [sys_log.go:128]  UpdateMeetingInfo Controller:更新会议信息失败
+2018/12/25 20:00:54.962 [D] [sys_log.go:128]  UpdateMeetingInfo 错误:Error 1292: Incorrect datetime value: '' for column 'updatetime' at row 1
+2018/12/25 20:01:01.377 [D] [sys_log.go:128]  UpdateMeetingInfo Controller:更新会议信息失败
+2018/12/25 20:01:27.624 [D] [sys_log.go:128]  UpdateMeetingInfo 错误:Error 1292: Incorrect datetime value: '' for column 'updatetime' at row 1
+2018/12/25 20:01:29.718 [D] [sys_log.go:128]  UpdateMeetingInfo Controller:更新会议信息失败
+2018/12/25 20:05:21.529 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2018/12/25 20:09:20.010 [D] [sys_log.go:128]  用户[admin]登录成功!
+2018/12/25 20:10:40.956 [D] [sys_log.go:128]  DelmeetingInfo 错误:Error 1292: Incorrect datetime value: '' for column 'updatetime' at row 1
+2018/12/25 20:10:41.037 [D] [sys_log.go:128]  DelMeetingInfo Controller:删除会议信息失败
+2018/12/25 20:11:26.525 [D] [sys_log.go:128]  DelmeetingInfo 错误:Error 1292: Incorrect datetime value: '' for column 'updatetime' at row 1
+2018/12/25 20:11:26.605 [D] [sys_log.go:128]  DelMeetingInfo Controller:删除会议信息失败
+2018/12/25 20:12:48.721 [D] [sys_log.go:128]  DelmeetingInfo 错误:Error 1292: Incorrect datetime value: '' for column 'updatetime' at row 1
+2018/12/25 20:12:48.803 [D] [sys_log.go:128]  DelMeetingInfo Controller:删除会议信息失败
+2018/12/25 20:13:14.172 [D] [sys_log.go:128]  DelmeetingInfo 错误:Error 1292: Incorrect datetime value: '' for column 'updatetime' at row 1
+2018/12/25 20:13:14.254 [D] [sys_log.go:128]  DelMeetingInfo Controller:删除会议信息失败
+2018/12/25 20:16:43.372 [D] [sys_log.go:128]  DelmeetingInfo 错误:Error 1292: Incorrect datetime value: '' for column 'updatetime' at row 1
+2018/12/25 20:16:45.975 [D] [sys_log.go:128]  DelMeetingInfo Controller:删除会议信息失败
+2018/12/25 20:16:46.062 [D] [sys_log.go:128]  DelmeetingInfo 错误:Error 1292: Incorrect datetime value: '' for column 'updatetime' at row 1
+2018/12/25 20:16:46.142 [D] [sys_log.go:128]  DelMeetingInfo Controller:删除会议信息失败
+2018/12/25 20:16:56.657 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2018/12/25 20:17:07.061 [D] [sys_log.go:128]  用户[admin]登录成功!
+2018/12/25 20:17:58.873 [D] [sys_log.go:128]  AddMeetingInfo Controller:参数传递错误
+2018/12/25 20:18:39.884 [D] [sys_log.go:128]  AddMeetingInfo Controller:参数传递错误
+2018/12/25 20:19:50.157 [D] [sys_log.go:128]  AddMeetingInfo Controller:参数传递错误
+2018/12/25 20:20:14.034 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2018/12/25 20:20:21.467 [D] [sys_log.go:128]  用户[admin]登录成功!
+2018/12/25 20:32:11.864 [D] [sys_log.go:128]  AddUserInfo Error:Error 1062: Duplicate entry '6' for key 'PRIMARY'
+2018/12/25 20:34:31.240 [D] [sys_log.go:128]  删除用户[8]成功
+2018/12/25 21:01:37.058 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2018/12/25 21:02:13.426 [D] [sys_log.go:128]  用户[admin]登录成功!
+2019/01/11 14:51:33.772 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/11 14:51:33.774 [C] [asm_amd64.s:1333]  ListenAndServe:  listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2019/01/11 14:52:10.132 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/11 14:52:14.297 [C] [asm_amd64.s:522]  the request url is  /test
+2019/01/11 14:52:14.297 [C] [asm_amd64.s:522]  Handler crashed with error can't find templatefile in the path:views/testcontroller/get.tpl
+2019/01/11 14:52:14.297 [C] [asm_amd64.s:522]  F:/golang1.11/src/runtime/asm_amd64.s:522
+2019/01/11 14:52:14.297 [C] [asm_amd64.s:522]  F:/golang1.11/src/runtime/panic.go:513
+2019/01/11 14:52:14.297 [C] [asm_amd64.s:522]  G:/go_path/src/github.com/astaxie/beego/template.go:73
+2019/01/11 14:52:14.297 [C] [asm_amd64.s:522]  G:/go_path/src/github.com/astaxie/beego/controller.go:283
+2019/01/11 14:52:14.297 [C] [asm_amd64.s:522]  G:/go_path/src/github.com/astaxie/beego/controller.go:234
+2019/01/11 14:52:14.297 [C] [asm_amd64.s:522]  G:/go_path/src/github.com/astaxie/beego/controller.go:214
+2019/01/11 14:52:14.297 [C] [asm_amd64.s:522]  G:/go_path/src/github.com/astaxie/beego/router.go:863
+2019/01/11 14:52:14.297 [C] [asm_amd64.s:522]  F:/golang1.11/src/net/http/server.go:2741
+2019/01/11 14:52:14.297 [C] [asm_amd64.s:522]  F:/golang1.11/src/net/http/server.go:1847
+2019/01/11 14:52:14.297 [C] [asm_amd64.s:522]  F:/golang1.11/src/runtime/asm_amd64.s:1333
+2019/01/11 14:52:14.298 [server.go:2977]  [HTTP] http: multiple response.WriteHeader calls
+2019/01/11 14:52:38.006 [C] [asm_amd64.s:522]  the request url is  /
+2019/01/11 14:52:38.006 [C] [asm_amd64.s:522]  Handler crashed with error can't find templatefile in the path:views/../views/login.tpl
+2019/01/11 14:52:38.006 [C] [asm_amd64.s:522]  F:/golang1.11/src/runtime/asm_amd64.s:522
+2019/01/11 14:52:38.006 [C] [asm_amd64.s:522]  F:/golang1.11/src/runtime/panic.go:513
+2019/01/11 14:52:38.006 [C] [asm_amd64.s:522]  G:/go_path/src/github.com/astaxie/beego/template.go:73
+2019/01/11 14:52:38.006 [C] [asm_amd64.s:522]  G:/go_path/src/github.com/astaxie/beego/controller.go:283
+2019/01/11 14:52:38.006 [C] [asm_amd64.s:522]  G:/go_path/src/github.com/astaxie/beego/controller.go:234
+2019/01/11 14:52:38.006 [C] [asm_amd64.s:522]  G:/go_path/src/github.com/astaxie/beego/controller.go:214
+2019/01/11 14:52:38.006 [C] [asm_amd64.s:522]  G:/go_path/src/github.com/astaxie/beego/router.go:863
+2019/01/11 14:52:38.006 [C] [asm_amd64.s:522]  F:/golang1.11/src/net/http/server.go:2741
+2019/01/11 14:52:38.006 [C] [asm_amd64.s:522]  F:/golang1.11/src/net/http/server.go:1847
+2019/01/11 14:52:38.006 [C] [asm_amd64.s:522]  F:/golang1.11/src/runtime/asm_amd64.s:1333
+2019/01/11 14:52:38.007 [server.go:2977]  [HTTP] http: multiple response.WriteHeader calls
+2019/01/11 14:59:22.704 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/11 15:01:41.856 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/11 15:02:34.191 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/11 15:03:02.854 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/11 15:03:06.258 [C] [asm_amd64.s:522]  the request url is  /
+2019/01/11 15:03:06.258 [C] [asm_amd64.s:522]  Handler crashed with error can't find templatefile in the path:views/../views/login.tpl
+2019/01/11 15:03:06.258 [C] [asm_amd64.s:522]  F:/golang1.11/src/runtime/asm_amd64.s:522
+2019/01/11 15:03:06.258 [C] [asm_amd64.s:522]  F:/golang1.11/src/runtime/panic.go:513
+2019/01/11 15:03:06.258 [C] [asm_amd64.s:522]  G:/go_path/src/github.com/astaxie/beego/template.go:73
+2019/01/11 15:03:06.258 [C] [asm_amd64.s:522]  G:/go_path/src/github.com/astaxie/beego/controller.go:283
+2019/01/11 15:03:06.258 [C] [asm_amd64.s:522]  G:/go_path/src/github.com/astaxie/beego/controller.go:234
+2019/01/11 15:03:06.258 [C] [asm_amd64.s:522]  G:/go_path/src/github.com/astaxie/beego/controller.go:214
+2019/01/11 15:03:06.258 [C] [asm_amd64.s:522]  G:/go_path/src/github.com/astaxie/beego/router.go:863
+2019/01/11 15:03:06.258 [C] [asm_amd64.s:522]  F:/golang1.11/src/net/http/server.go:2741
+2019/01/11 15:03:06.258 [C] [asm_amd64.s:522]  F:/golang1.11/src/net/http/server.go:1847
+2019/01/11 15:03:06.258 [C] [asm_amd64.s:522]  F:/golang1.11/src/runtime/asm_amd64.s:1333
+2019/01/11 15:03:06.259 [server.go:2977]  [HTTP] http: multiple response.WriteHeader calls
+2019/01/25 14:43:42.562 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/01/25 14:44:08.609 [C] [asm_amd64.s:522]  the request url is  /
+2019/01/25 14:44:08.609 [C] [asm_amd64.s:522]  Handler crashed with error can't find templatefile in the path:views/../views/login.tpl
+2019/01/25 14:44:08.609 [C] [asm_amd64.s:522]  F:/golang1.11/src/runtime/asm_amd64.s:522
+2019/01/25 14:44:08.609 [C] [asm_amd64.s:522]  F:/golang1.11/src/runtime/panic.go:513
+2019/01/25 14:44:08.609 [C] [asm_amd64.s:522]  G:/go_path/src/github.com/astaxie/beego/template.go:73
+2019/01/25 14:44:08.609 [C] [asm_amd64.s:522]  G:/go_path/src/github.com/astaxie/beego/controller.go:283
+2019/01/25 14:44:08.609 [C] [asm_amd64.s:522]  G:/go_path/src/github.com/astaxie/beego/controller.go:234
+2019/01/25 14:44:08.609 [C] [asm_amd64.s:522]  G:/go_path/src/github.com/astaxie/beego/controller.go:214
+2019/01/25 14:44:08.609 [C] [asm_amd64.s:522]  G:/go_path/src/github.com/astaxie/beego/router.go:863
+2019/01/25 14:44:08.609 [C] [asm_amd64.s:522]  F:/golang1.11/src/net/http/server.go:2741
+2019/01/25 14:44:08.609 [C] [asm_amd64.s:522]  F:/golang1.11/src/net/http/server.go:1847
+2019/01/25 14:44:08.609 [C] [asm_amd64.s:522]  F:/golang1.11/src/runtime/asm_amd64.s:1333
+2019/01/25 14:44:08.610 [server.go:2977]  [HTTP] http: multiple response.WriteHeader calls
+2019/01/25 14:44:25.722 [D] [sys_log.go:128]  用户[admin]登录成功!
+2019/02/02 19:20:53.353 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/03/04 23:17:30.974 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/03/04 23:18:00.978 [C] [asm_amd64.s:522]  the request url is  /
+2019/03/04 23:18:00.978 [C] [asm_amd64.s:522]  Handler crashed with error can't find templatefile in the path:views/../views/login.tpl
+2019/03/04 23:18:00.978 [C] [asm_amd64.s:522]  E:/Go/src/runtime/asm_amd64.s:522
+2019/03/04 23:18:00.978 [C] [asm_amd64.s:522]  E:/Go/src/runtime/panic.go:513
+2019/03/04 23:18:00.978 [C] [asm_amd64.s:522]  C:/Program Files/goSrc/src/github.com/astaxie/beego/template.go:75
+2019/03/04 23:18:00.978 [C] [asm_amd64.s:522]  C:/Program Files/goSrc/src/github.com/astaxie/beego/controller.go:282
+2019/03/04 23:18:00.978 [C] [asm_amd64.s:522]  C:/Program Files/goSrc/src/github.com/astaxie/beego/controller.go:233
+2019/03/04 23:18:00.978 [C] [asm_amd64.s:522]  C:/Program Files/goSrc/src/github.com/astaxie/beego/controller.go:213
+2019/03/04 23:18:00.978 [C] [asm_amd64.s:522]  C:/Program Files/goSrc/src/github.com/astaxie/beego/router.go:864
+2019/03/04 23:18:00.978 [C] [asm_amd64.s:522]  E:/Go/src/net/http/server.go:2741
+2019/03/04 23:18:00.978 [C] [asm_amd64.s:522]  E:/Go/src/net/http/server.go:1847
+2019/03/04 23:18:00.978 [C] [asm_amd64.s:522]  E:/Go/src/runtime/asm_amd64.s:1333
+2019/03/04 23:18:00.979 [server.go:2977]  [HTTP] http: multiple response.WriteHeader calls
+2019/03/12 23:08:18.560 [I] [asm_amd64.s:1333]  http server Running on http://:8080
+2019/03/12 23:08:41.666 [D] [sys_log.go:128]  用户[admin]登录成功!
+2019/03/12 23:37:14.303 [I] [asm_amd64.s:1333]  http server Running on http://:8080

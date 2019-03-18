@@ -1,0 +1,84 @@
+2018/12/10 09:16:34.336 [I] [asm_amd64.s:2337]  http server Running on http://:8080
+2018/12/10 09:17:05.487 [D] [sys_log.go:128]  请重新登录
+2018/12/10 10:43:01.019 [I] [asm_amd64.s:2337]  http server Running on http://:8080
+2018/12/10 10:44:55.028 [I] [asm_amd64.s:2337]  http server Running on http://:8080
+2018/12/10 13:53:56.215 [I] [asm_amd64.s:2337]  http server Running on http://:8080
+2018/12/10 14:10:36.555 [D] [sys_log.go:128]  Login 方法出现错误:<QuerySeter> no row found
+2018/12/10 14:10:36.659 [D] [sys_log.go:128]  用户[admin@wz.com]登录失败
+2018/12/10 14:11:28.029 [D] [sys_log.go:128]  Login 方法出现错误:<QuerySeter> no row found
+2018/12/10 14:11:28.129 [D] [sys_log.go:128]  用户[admin@wz.com]登录失败
+2018/12/10 14:12:59.184 [I] [asm_amd64.s:2337]  http server Running on http://:8080
+2018/12/10 14:13:12.986 [C] [asm_amd64.s:509]  the request url is  /
+2018/12/10 14:13:12.986 [C] [asm_amd64.s:509]  Handler crashed with error can't find templatefile in the path:views/static/
+2018/12/10 14:13:12.986 [C] [asm_amd64.s:509]  F:/goland/src/runtime/asm_amd64.s:509
+2018/12/10 14:13:12.986 [C] [asm_amd64.s:509]  F:/goland/src/runtime/panic.go:491
+2018/12/10 14:13:12.986 [C] [asm_amd64.s:509]  G:/go_path/src/github.com/astaxie/beego/template.go:73
+2018/12/10 14:13:12.986 [C] [asm_amd64.s:509]  G:/go_path/src/github.com/astaxie/beego/controller.go:283
+2018/12/10 14:13:12.986 [C] [asm_amd64.s:509]  G:/go_path/src/github.com/astaxie/beego/controller.go:234
+2018/12/10 14:13:12.986 [C] [asm_amd64.s:509]  G:/go_path/src/github.com/astaxie/beego/controller.go:214
+2018/12/10 14:13:12.987 [C] [asm_amd64.s:509]  G:/go_path/src/github.com/astaxie/beego/router.go:863
+2018/12/10 14:13:12.987 [C] [asm_amd64.s:509]  F:/goland/src/net/http/server.go:2619
+2018/12/10 14:13:12.987 [C] [asm_amd64.s:509]  F:/goland/src/net/http/server.go:1801
+2018/12/10 14:13:12.987 [C] [asm_amd64.s:509]  F:/goland/src/runtime/asm_amd64.s:2337
+2018/12/10 14:13:12.990 [server.go:2846]  [HTTP] http: multiple response.WriteHeader calls
+2018/12/10 14:13:15.339 [I] [asm_amd64.s:2337]  http server Running on http://:8080
+2018/12/10 14:13:36.643 [I] [asm_amd64.s:2337]  http server Running on http://:8080
+2018/12/10 14:13:40.187 [C] [asm_amd64.s:509]  the request url is  /
+2018/12/10 14:13:40.187 [C] [asm_amd64.s:509]  Handler crashed with error can't find templatefile in the path:views/./static/index.html
+2018/12/10 14:13:40.187 [C] [asm_amd64.s:509]  F:/goland/src/runtime/asm_amd64.s:509
+2018/12/10 14:13:40.187 [C] [asm_amd64.s:509]  F:/goland/src/runtime/panic.go:491
+2018/12/10 14:13:40.187 [C] [asm_amd64.s:509]  G:/go_path/src/github.com/astaxie/beego/template.go:73
+2018/12/10 14:13:40.187 [C] [asm_amd64.s:509]  G:/go_path/src/github.com/astaxie/beego/controller.go:283
+2018/12/10 14:13:40.187 [C] [asm_amd64.s:509]  G:/go_path/src/github.com/astaxie/beego/controller.go:234
+2018/12/10 14:13:40.187 [C] [asm_amd64.s:509]  G:/go_path/src/github.com/astaxie/beego/controller.go:214
+2018/12/10 14:13:40.187 [C] [asm_amd64.s:509]  G:/go_path/src/github.com/astaxie/beego/router.go:863
+2018/12/10 14:13:40.187 [C] [asm_amd64.s:509]  F:/goland/src/net/http/server.go:2619
+2018/12/10 14:13:40.187 [C] [asm_amd64.s:509]  F:/goland/src/net/http/server.go:1801
+2018/12/10 14:13:40.187 [C] [asm_amd64.s:509]  F:/goland/src/runtime/asm_amd64.s:2337
+2018/12/10 14:13:40.191 [server.go:2846]  [HTTP] http: multiple response.WriteHeader calls
+2018/12/10 14:13:42.839 [C] [asm_amd64.s:509]  the request url is  /
+2018/12/10 14:13:42.839 [C] [asm_amd64.s:509]  Handler crashed with error can't find templatefile in the path:views/./static/index.html
+2018/12/10 14:13:42.839 [C] [asm_amd64.s:509]  F:/goland/src/runtime/asm_amd64.s:509
+2018/12/10 14:13:42.839 [C] [asm_amd64.s:509]  F:/goland/src/runtime/panic.go:491
+2018/12/10 14:13:42.839 [C] [asm_amd64.s:509]  G:/go_path/src/github.com/astaxie/beego/template.go:73
+2018/12/10 14:13:42.839 [C] [asm_amd64.s:509]  G:/go_path/src/github.com/astaxie/beego/controller.go:283
+2018/12/10 14:13:42.839 [C] [asm_amd64.s:509]  G:/go_path/src/github.com/astaxie/beego/controller.go:234
+2018/12/10 14:13:42.839 [C] [asm_amd64.s:509]  G:/go_path/src/github.com/astaxie/beego/controller.go:214
+2018/12/10 14:13:42.839 [C] [asm_amd64.s:509]  G:/go_path/src/github.com/astaxie/beego/router.go:863
+2018/12/10 14:13:42.839 [C] [asm_amd64.s:509]  F:/goland/src/net/http/server.go:2619
+2018/12/10 14:13:42.839 [C] [asm_amd64.s:509]  F:/goland/src/net/http/server.go:1801
+2018/12/10 14:13:42.839 [C] [asm_amd64.s:509]  F:/goland/src/runtime/asm_amd64.s:2337
+2018/12/10 14:13:42.839 [server.go:2846]  [HTTP] http: multiple response.WriteHeader calls
+2018/12/10 14:14:33.523 [I] [asm_amd64.s:2337]  http server Running on http://:8080
+2018/12/10 14:14:38.287 [C] [asm_amd64.s:509]  the request url is  /
+2018/12/10 14:14:38.287 [C] [asm_amd64.s:509]  Handler crashed with error can't find templatefile in the path:views/static/index.html
+2018/12/10 14:14:38.287 [C] [asm_amd64.s:509]  F:/goland/src/runtime/asm_amd64.s:509
+2018/12/10 14:14:38.287 [C] [asm_amd64.s:509]  F:/goland/src/runtime/panic.go:491
+2018/12/10 14:14:38.287 [C] [asm_amd64.s:509]  G:/go_path/src/github.com/astaxie/beego/template.go:73
+2018/12/10 14:14:38.287 [C] [asm_amd64.s:509]  G:/go_path/src/github.com/astaxie/beego/controller.go:283
+2018/12/10 14:14:38.287 [C] [asm_amd64.s:509]  G:/go_path/src/github.com/astaxie/beego/controller.go:234
+2018/12/10 14:14:38.287 [C] [asm_amd64.s:509]  G:/go_path/src/github.com/astaxie/beego/controller.go:214
+2018/12/10 14:14:38.287 [C] [asm_amd64.s:509]  G:/go_path/src/github.com/astaxie/beego/router.go:863
+2018/12/10 14:14:38.287 [C] [asm_amd64.s:509]  F:/goland/src/net/http/server.go:2619
+2018/12/10 14:14:38.287 [C] [asm_amd64.s:509]  F:/goland/src/net/http/server.go:1801
+2018/12/10 14:14:38.287 [C] [asm_amd64.s:509]  F:/goland/src/runtime/asm_amd64.s:2337
+2018/12/10 14:14:38.287 [server.go:2846]  [HTTP] http: multiple response.WriteHeader calls
+2018/12/10 14:18:38.021 [I] [asm_amd64.s:2337]  http server Running on http://:8080
+2018/12/10 14:18:58.953 [D] [sys_log.go:128]  Login 方法出现错误:<QuerySeter> no row found
+2018/12/10 14:18:59.037 [D] [sys_log.go:128]  用户[admin@wz.com]登录失败
+2018/12/10 14:19:10.639 [C] [asm_amd64.s:509]  the request url is  /
+2018/12/10 14:19:10.639 [C] [asm_amd64.s:509]  Handler crashed with error can't find templatefile in the path:views/../static/index.html
+2018/12/10 14:19:10.639 [C] [asm_amd64.s:509]  F:/goland/src/runtime/asm_amd64.s:509
+2018/12/10 14:19:10.639 [C] [asm_amd64.s:509]  F:/goland/src/runtime/panic.go:491
+2018/12/10 14:19:10.639 [C] [asm_amd64.s:509]  G:/go_path/src/github.com/astaxie/beego/template.go:73
+2018/12/10 14:19:10.639 [C] [asm_amd64.s:509]  G:/go_path/src/github.com/astaxie/beego/controller.go:283
+2018/12/10 14:19:10.639 [C] [asm_amd64.s:509]  G:/go_path/src/github.com/astaxie/beego/controller.go:234
+2018/12/10 14:19:10.639 [C] [asm_amd64.s:509]  G:/go_path/src/github.com/astaxie/beego/controller.go:214
+2018/12/10 14:19:10.639 [C] [asm_amd64.s:509]  G:/go_path/src/github.com/astaxie/beego/router.go:863
+2018/12/10 14:19:10.639 [C] [asm_amd64.s:509]  F:/goland/src/net/http/server.go:2619
+2018/12/10 14:19:10.639 [C] [asm_amd64.s:509]  F:/goland/src/net/http/server.go:1801
+2018/12/10 14:19:10.639 [C] [asm_amd64.s:509]  F:/goland/src/runtime/asm_amd64.s:2337
+2018/12/10 14:19:10.639 [server.go:2846]  [HTTP] http: multiple response.WriteHeader calls
+2018/12/10 14:26:54.125 [D] [sys_log.go:128]  用户[admin@wz.com]登录成功!
+2018/12/10 22:26:16.006 [D] [sys_log.go:128]  用户[admin@wz.com]登录成功!
+2018/12/10 22:29:17.290 [D] [sys_log.go:128]  用户[admin@wz.com]登录成功!
